@@ -1,4 +1,4 @@
-# games-for-my-computer
-games by games for my computer
+# growth spurt
+game by games for my computer
 
 biagi, han, hatim, isabelle, nichole
